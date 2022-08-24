@@ -1,0 +1,74 @@
+[
+	{
+		"title": "Solid Women Polo Neck Black T-Shirt",
+		"id": "item1",
+		"ideaFor": "Women",
+		"brand": "Puma",
+		"size": ["S", "L", "XL"],
+		"price": 780,
+		"img": "https://rukminim1.flixcart.com/image/800/960/kst9gnk0/t-shirt/x/n/b/s-67039901-puma-original-imag6a28uguhgkyf.jpeg?q=50"
+	},
+	{
+		"title": "Full Sleve Solid Casual Jacket",
+		"id": "item2",
+		"ideaFor": "Men",
+		"brand": "Metronaut",
+		"size": ["S", "M"],
+		"price": 1150,
+		"img": "https://rukminim1.flixcart.com/image/800/960/khf63680/jacket/h/c/g/m-maw20jkt089c-metronaut-original-imafxfz4bungxe6v.jpeg?q=50"
+	},
+	{
+		"title": "Women High-Low 3/4th Sleeve Yellow Shrug",
+		"id": "item3",
+		"ideaFor": "Women",
+		"brand": "Metronaut",
+		"size": ["L", "M", "XL"],
+		"price": 550,
+		"img": "https://rukminim1.flixcart.com/image/800/960/l0cr4i80/shrug/r/o/h/free-1-mntwshrg1003-metronaut-original-imagc5pkgks3xwuf.jpeg?q=50"
+	},
+	{
+		"title": "Solid Men Polo Neck Black T-Shirt",
+		"id": "item4",
+		"ideaFor": "Men",
+		"brand": "Allen Solly",
+		"size": ["S", "L", "XL"],
+		"price": 700,
+		"img": "https://rukminim1.flixcart.com/image/800/960/l4vnbm80/t-shirt/i/j/q/m-askporgfj72665-new-allen-solly-original-imagfzk8vjxgurcj.jpeg?q=50"
+	},
+	{
+		"title": "Casual Regular Sleeves Floral Print Women White Top",
+		"id": "item5",
+		"ideaFor": "Women",
+		"brand": "Allen Solly",
+		"size": ["S", "L", "XL"],
+		"price": 720,
+		"img": "https://rukminim1.flixcart.com/image/800/960/ksgehzk0/top/g/6/6/s-ahtscrgfm41435-allen-solly-original-imag6ypfggageee2.jpeg?q=50"
+	},
+	{
+		"title": "Full Sleeve Solid Women Sweatshirt",
+		"id": "item6",
+		"ideaFor": "Women",
+		"brand": "Metronaut",
+		"size": ["S", "L", "XL"],
+		"price": 450,
+		"img": "https://rukminim1.flixcart.com/image/800/960/jm573ww0/sweatshirt/v/k/x/s-ss18psst124-yellow-metronaut-original-imaf946fjyurpypg.jpeg?q=50"
+	},
+	{
+		"title": "WMN Sweat 9 Full Sleeve Solid Women Sports Jacket",
+		"id": "item7",
+		"ideaFor": "Women",
+		"brand": "Puma",
+		"size": ["S", "L", "XL", "M"],
+		"price": 900,
+		"img": "https://rukminim1.flixcart.com/image/800/960/kxxl9jk0/jacket/v/a/s/s-1-no-67037301-puma-original-imagaaf5hcuvuzfd.jpeg?q=50"
+	},
+	{
+		"title": "Striped Men Polo Neck Multicolor T-Shirt",
+		"id": "item8",
+		"ideaFor": "Men",
+		"brand": "Allen Solly",
+		"size": ["M", "XL"],
+		"price": 1000,
+		"img": "https://rukminim1.flixcart.com/image/800/960/xif0q/t-shirt/i/h/d/m-askpwrgf898467-new-allen-solly-original-imaggz4tzkdr3e5p.jpeg?q=50"
+	}
+]
