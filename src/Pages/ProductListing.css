@@ -1,0 +1,16 @@
+.product-container {
+    display: grid;
+    grid-template-columns: 1fr 4fr;
+    padding: 1rem;
+}
+
+.product-card {
+    width: 250px;
+    height: 400px;
+}
+
+.product-card img {
+    width: 100%;
+    max-height: 220px;
+    object-fit: fill;
+}
