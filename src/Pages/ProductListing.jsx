@@ -8,10 +8,7 @@ import "./ProductListing.css";
 export const ProductListing = () => {
 	const { filterData } = useFilter();
 	const finalData = filterProduct(filterData, productData);
-
-	useEffect(() => {
-		console.log("finalData: ", finalData);
-	});
+	
 	return (
 		<div className="">
 			<nav>

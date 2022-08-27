@@ -3,7 +3,6 @@ import { useFilter } from "../contexts/filter-context";
 
 export const Filter = () => {
 	const { filterData, setFilterData } = useFilter();
-	// console.log("filterData: ", filterData);
 
 	// Gender click handler here
 	const genderChangeHandler = (labelText) => {
@@ -34,9 +33,7 @@ export const Filter = () => {
 		});
 	};
 
-	useEffect(() => {
-		console.log("after data filterData: ", filterData);
-	});
+	useEffect(() => {});
 	return (
 		<div>
 			<h2 className="text-2xl">Sort & Filter</h2>

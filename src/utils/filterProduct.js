@@ -20,7 +20,6 @@ export const filterProduct = (state, productData) => {
 		);
 	}
 	if (state.sortBy !== "") {
-		console.log("in sort");
 		if (state.sortBy === "low-to-high") {
 			productData = [...productData].sort((item1, item2) => {
 				return item1.price - item2.price;
